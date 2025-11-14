@@ -67,7 +67,7 @@ https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8
 http://83.103.150.198:8080
 #EXTINF:-1 tvg-id="JOBTV.ro@SD",JOB TV (1080p)
 https://jobtvserver.eu/hls/stream.m3u8
-#EXTINF:-1 tvg-id="KanalD.ro@SD",Kanal D (480p)
+#EXTINF:-1 tvg-id="KanalD.ro@SD",Kanal2 D (480p)
 https://stream2.kanald.ro/iphone/knd2-live_low/index.m3u8
 #EXTINF:-1 tvg-id="KissTV.ro@SD",Kiss TV (1080p)
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
@@ -203,4 +203,5 @@ https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
 https://live.tele7music.ro/hls/stream/index.m3u8
 #EXTINF:-1 tvg-id="Tele7ABCHD.ro@SD",Tele7ABC HD (720p)
 https://live.tele7abc.ro/hls/stream/index.m3u8
+
 
